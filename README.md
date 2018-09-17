@@ -10,7 +10,7 @@ There is a project maintained by Facebook called `create-react-app`. Some people
 
 When you begin learning, start with the [main concepts](https://reactjs.org/docs/hello-world.html) section in the official docs. You should be able to get through all twelve concepts in a day.
 
-From here, it's time to graduate to more in-depth tutorials and guides, preferably ones that walk you through the entire process of building a small to medium sized application that communicates with an API. There are a wealth of resources available. Choose one, or a couple, that are up to date and well maintained. If you are a small team all learning together, you should learn from the same resources so as to all be on the same page with each other. Allow yourself at least a full week to get up to speed with everything, especially if you also intend to learn Redux.
+From here, it's time to graduate to more in-depth tutorials and guides, preferably ones that walk you through the entire process of building a small to medium sized application that communicates with an API. There are a wealth of resources available. Choose one, or a couple, that are up to date and well maintained. If you are a small team all learning together, you should learn from the same resources so as to all be on the same page with each other. Allow yourself at least a full week to get up to speed with the basics, especially if you also intend to learn Redux.
 
 Here are a couple of my recommendations...
 
@@ -33,7 +33,7 @@ _A note about Redux..._ Redux can really refer to two things. There is Redux the
 
 ### Recommended Libraries
 
-React is an ecosystem just as much as it is a library. The same can be said for Redux. You do not have to use all of these, and many of them can gradually be added to the codebase as needed. However, all of these libraries are first-class, grade A, battle tested projects that will without a doubt improve the the maintainablity and scalability of your application when implemented properly.
+React is an ecosystem just as much as it is a library. The same can be said for Redux. You do not have to utilize all of these libraries, and many of them can gradually be added to the codebase as needed. However, all of these libraries are first-class, grade A, battle tested projects that will without a doubt improve the the maintainablity and scalability of your application when implemented properly.
 
 - redux (data management)
 - xstate (state management / hierarchichal state machine)
@@ -59,7 +59,7 @@ React is an ecosystem just as much as it is a library. The same can be said for 
 
 ### Common Patterns
 
-These patterns are common enough that you should be somewhat familiar with them. Used correctly, they can make for crazy amounts of composition and reuse and will enable proper separation of concerns as your applications grow.
+These patterns are common enough that you should be somewhat familiar with them. Used correctly, they can make for very efficient composition and reuse and will enable proper separation of concerns as your applications grow.
 
 - [Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 - [Function as](https://www.youtube.com/watch?v=WE3XAt9P8Ek) [Child Components](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
